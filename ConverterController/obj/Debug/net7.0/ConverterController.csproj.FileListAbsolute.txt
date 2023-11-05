@@ -1,0 +1,14 @@
+C:\Users\Julia\source\repos\project1\ConverterController\bin\Debug\net7.0\ConverterController.exe
+C:\Users\Julia\source\repos\project1\ConverterController\bin\Debug\net7.0\ConverterController.deps.json
+C:\Users\Julia\source\repos\project1\ConverterController\bin\Debug\net7.0\ConverterController.runtimeconfig.json
+C:\Users\Julia\source\repos\project1\ConverterController\bin\Debug\net7.0\ConverterController.dll
+C:\Users\Julia\source\repos\project1\ConverterController\bin\Debug\net7.0\ConverterController.pdb
+C:\Users\Julia\source\repos\project1\ConverterController\obj\Debug\net7.0\ConverterController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia\source\repos\project1\ConverterController\obj\Debug\net7.0\ConverterController.AssemblyInfoInputs.cache
+C:\Users\Julia\source\repos\project1\ConverterController\obj\Debug\net7.0\ConverterController.AssemblyInfo.cs
+C:\Users\Julia\source\repos\project1\ConverterController\obj\Debug\net7.0\ConverterController.csproj.CoreCompileInputs.cache
+C:\Users\Julia\source\repos\project1\ConverterController\obj\Debug\net7.0\ConverterController.dll
+C:\Users\Julia\source\repos\project1\ConverterController\obj\Debug\net7.0\refint\ConverterController.dll
+C:\Users\Julia\source\repos\project1\ConverterController\obj\Debug\net7.0\ConverterController.pdb
+C:\Users\Julia\source\repos\project1\ConverterController\obj\Debug\net7.0\ConverterController.genruntimeconfig.cache
+C:\Users\Julia\source\repos\project1\ConverterController\obj\Debug\net7.0\ref\ConverterController.dll

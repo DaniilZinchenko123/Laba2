@@ -1,0 +1,14 @@
+C:\Users\Julia\source\repos\project1\EmployeeController\obj\Debug\net7.0\EmployeeController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia\source\repos\project1\EmployeeController\obj\Debug\net7.0\EmployeeController.AssemblyInfoInputs.cache
+C:\Users\Julia\source\repos\project1\EmployeeController\obj\Debug\net7.0\EmployeeController.AssemblyInfo.cs
+C:\Users\Julia\source\repos\project1\EmployeeController\obj\Debug\net7.0\EmployeeController.csproj.CoreCompileInputs.cache
+C:\Users\Julia\source\repos\project1\EmployeeController\bin\Debug\net7.0\EmployeeController.exe
+C:\Users\Julia\source\repos\project1\EmployeeController\bin\Debug\net7.0\EmployeeController.deps.json
+C:\Users\Julia\source\repos\project1\EmployeeController\bin\Debug\net7.0\EmployeeController.runtimeconfig.json
+C:\Users\Julia\source\repos\project1\EmployeeController\bin\Debug\net7.0\EmployeeController.dll
+C:\Users\Julia\source\repos\project1\EmployeeController\bin\Debug\net7.0\EmployeeController.pdb
+C:\Users\Julia\source\repos\project1\EmployeeController\obj\Debug\net7.0\EmployeeController.dll
+C:\Users\Julia\source\repos\project1\EmployeeController\obj\Debug\net7.0\refint\EmployeeController.dll
+C:\Users\Julia\source\repos\project1\EmployeeController\obj\Debug\net7.0\EmployeeController.pdb
+C:\Users\Julia\source\repos\project1\EmployeeController\obj\Debug\net7.0\EmployeeController.genruntimeconfig.cache
+C:\Users\Julia\source\repos\project1\EmployeeController\obj\Debug\net7.0\ref\EmployeeController.dll

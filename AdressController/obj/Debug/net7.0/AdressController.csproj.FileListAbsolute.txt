@@ -1,0 +1,14 @@
+C:\Users\Julia\source\repos\project1\AdressController\bin\Debug\net7.0\AdressController.exe
+C:\Users\Julia\source\repos\project1\AdressController\bin\Debug\net7.0\AdressController.deps.json
+C:\Users\Julia\source\repos\project1\AdressController\bin\Debug\net7.0\AdressController.runtimeconfig.json
+C:\Users\Julia\source\repos\project1\AdressController\bin\Debug\net7.0\AdressController.dll
+C:\Users\Julia\source\repos\project1\AdressController\bin\Debug\net7.0\AdressController.pdb
+C:\Users\Julia\source\repos\project1\AdressController\obj\Debug\net7.0\AdressController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia\source\repos\project1\AdressController\obj\Debug\net7.0\AdressController.AssemblyInfoInputs.cache
+C:\Users\Julia\source\repos\project1\AdressController\obj\Debug\net7.0\AdressController.AssemblyInfo.cs
+C:\Users\Julia\source\repos\project1\AdressController\obj\Debug\net7.0\AdressController.csproj.CoreCompileInputs.cache
+C:\Users\Julia\source\repos\project1\AdressController\obj\Debug\net7.0\AdressController.dll
+C:\Users\Julia\source\repos\project1\AdressController\obj\Debug\net7.0\refint\AdressController.dll
+C:\Users\Julia\source\repos\project1\AdressController\obj\Debug\net7.0\AdressController.pdb
+C:\Users\Julia\source\repos\project1\AdressController\obj\Debug\net7.0\AdressController.genruntimeconfig.cache
+C:\Users\Julia\source\repos\project1\AdressController\obj\Debug\net7.0\ref\AdressController.dll
